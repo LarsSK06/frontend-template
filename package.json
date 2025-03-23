@@ -1,0 +1,32 @@
+{
+    "name": "web-template",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@mantine/core": "^7.17.2",
+        "@mantine/hooks": "^7.17.2",
+        "@tabler/icons-react": "^3.31.0",
+        "i18next": "^24.2.3",
+        "next": "15.2.3",
+        "react": "^19.0.0",
+        "react-dom": "^19.0.0",
+        "react-i18next": "^15.4.1"
+    },
+    "devDependencies": {
+        "@tailwindcss/postcss": "^4",
+        "@types/node": "^20",
+        "@types/react": "^19",
+        "@types/react-dom": "^19",
+        "postcss": "^8.5.3",
+        "postcss-preset-mantine": "^1.17.0",
+        "postcss-simple-vars": "^7.0.1",
+        "tailwindcss": "^4",
+        "typescript": "^5"
+    }
+}
