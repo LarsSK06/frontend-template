@@ -29,7 +29,7 @@ export const middleware = (req: NextRequest) => {
         }
     });
 
-    response.headers.set("Content-Security-Policy", cspHeaderValue);
+    //response.headers.set("Content-Security-Policy", cspHeaderValue);
 
     return response;
 };
