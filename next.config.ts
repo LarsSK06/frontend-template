@@ -1,7 +1,21 @@
-import type { NextConfig } from "next";
+import policy from "@/utils/csp-policy";
+
+import { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-    /* config options here */
+    async headers() {
+        return [
+            {
+                source: "/(.*)",
+                headers: [
+                    {
+                        key: "Content-Security-Policy",
+                        value: policy
+                    }
+                ]
+            }
+        ];
+    }
 };
 
 export default nextConfig;
