@@ -22,3 +22,14 @@ Install **NextAuth.js** <br />
 
 Install **API hook** <br />
 `npm i @larssk/api-hook`
+
+<br />
+
+### To do
+
+- Update [robots.txt](./public/robots.txt)
+- Update [security.txt](./public/security.txt)
+- Update [Content Security Policy](./src/utils/csp-policy.ts)
+- Update [Web app manifest](./public/app.webmanifest)
+    - https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Manifest
+    - https://w3c.github.io/manifest/
