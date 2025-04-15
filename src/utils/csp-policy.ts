@@ -5,7 +5,7 @@ const policy = `
 
 default-src 'self';
 script-src 'self' 'unsafe-inline' 'unsafe-eval';
-connect-src 'self' *.google-analytics.com;
+connect-src 'self';
 img-src 'self' data: blob:;
 style-src 'self' 'unsafe-inline';
 frame-src;
