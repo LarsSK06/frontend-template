@@ -1,4 +1,4 @@
-## Web template
+## Frontend template
 
 This is my preferred template for various web projects.
 This has already initialized and installed packages to my liking.
