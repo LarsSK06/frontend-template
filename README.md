@@ -24,6 +24,9 @@ Install **NextAuth.js** <br />
 Install **API hook** <br />
 `npm i @larssk/api-hook`
 
+Install **Moment.js** <br />
+`npm i moment`
+
 <br />
 
 ### To do
