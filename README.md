@@ -11,6 +11,7 @@ This has already initialized and installed packages to my liking.
 - [Mantine UI](https://ui.mantine.dev/)
 - [I18next](https://www.i18next.com/)
 - [Tabler icons](https://tabler.io/icons)
+- [Tabler illustrations](https://tabler.io/illustrations)
 - [Tailwind CSS](https://tailwindcss.com/)
 
 <br />
