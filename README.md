@@ -27,6 +27,9 @@ Install **API hook** <br />
 Install **Moment.js** <br />
 `npm i moment`
 
+Install **Mantine notifications** <br />
+`npm i @mantine/notifications`
+
 <br />
 
 ### To do
