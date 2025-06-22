@@ -40,3 +40,4 @@ Install **Mantine notifications** <br />
 - Update [Web app manifest](./public/app.webmanifest)
     - https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Manifest
     - https://w3c.github.io/manifest/
+- Update [metadata](./src/app/layout.tsx)
