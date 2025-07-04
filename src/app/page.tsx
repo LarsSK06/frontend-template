@@ -6,7 +6,7 @@ import { t } from "i18next";
 const Page = () => {
     return (
         <Button>
-            {t("general.HelloWorld")}
+            {t("common.HelloWorld")}
         </Button>
     );
 };
