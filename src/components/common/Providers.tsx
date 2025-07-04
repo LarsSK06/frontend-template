@@ -1,6 +1,6 @@
 "use client";
 
-import ParentProps from "@/types/general/ParentProps";
+import ParentProps from "@/types/common/ParentProps";
 
 import { createTheme, MantineProvider } from "@mantine/core";
 
